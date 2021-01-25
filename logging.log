@@ -1,0 +1,81 @@
+2021-01-25 14:05:36 INFO  ReaderApplication:74 - File Name: /home/tharanga/workspace/home/estonia/documents/file6.txt
+
+Most frequent words
+a : 11
+opus : 10
+es : 10
+ᵃ : 8
+ᵄ : 8
+ᵅ : 8
+ᵆ : 8
+ᵇ : 8
+ᵈ : 8
+ᵉ : 8
+ᵊ : 8
+ᵋ : 8
+ᵌ : 8
+ë : 8
+
+Most frequent Character
+e : 121
+s : 113
+i : 104
+t : 82
+u : 79
+
+2021-01-25 14:32:44 INFO  ReaderApplication:74 - File Name: /home/tharanga/workspace/home/estonia/documents/file6.txt
+
+Most frequent words
+a : 11
+opus : 10
+es : 10
+ᵃ : 8
+ᵄ : 8
+ᵅ : 8
+ᵆ : 8
+ᵇ : 8
+ᵈ : 8
+ᵉ : 8
+ᵊ : 8
+ᵋ : 8
+ᵌ : 8
+ë : 8
+
+Most frequent Character
+e : 121
+s : 113
+i : 104
+t : 82
+u : 79
+
+2021-01-25 14:33:12 INFO  ReaderApplication:74 - File Name: /home/tharanga/workspace/home/estonia/documents/filess.txt
+
+Invalid file path
+2021-01-25 14:34:03 INFO  ReaderApplication:74 - File Name: /home/tharanga/workspace/home/estonia/documents/file.xml
+
+File format not supported
+2021-01-25 16:27:18 INFO  ReaderApplication:74 - File Name: /home/tharanga/workspace/home/estonia/documents/file6.txt
+
+Most frequent words
+a : 11
+opus : 10
+es : 10
+ᵃ : 8
+ᵄ : 8
+ᵅ : 8
+ᵆ : 8
+ᵇ : 8
+ᵈ : 8
+ᵉ : 8
+ᵊ : 8
+ᵋ : 8
+ᵌ : 8
+ë : 8
+
+Most frequent Character
+e : 121
+s : 113
+i : 104
+t : 82
+u : 79
+
